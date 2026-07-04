@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\liveexplorer_skin.dir/objects.a
+D:\Download\mingw64\bin\ar.exe qc CMakeFiles\liveexplorer_skin.dir/objects.a @CMakeFiles\liveexplorer_skin.dir\objects1.rsp
+D:\Download\mingw64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\liveexplorer_skin.dir/objects.a -Wl,--no-whole-archive -o liveexplorer_skin.exe -Wl,--out-implib,libliveexplorer_skin.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\liveexplorer_skin.dir\linkLibs.rsp

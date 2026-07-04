@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\filemngr_bgimage.dir/objects.a
+D:\Download\mingw64\bin\ar.exe qc CMakeFiles\filemngr_bgimage.dir/objects.a @CMakeFiles\filemngr_bgimage.dir\objects1.rsp
+D:\Download\mingw64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\filemngr_bgimage.dir/objects.a -Wl,--no-whole-archive -o filemngr_bgimage.exe -Wl,--out-implib,libfilemngr_bgimage.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\filemngr_bgimage.dir\linkLibs.rsp

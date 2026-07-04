@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/FileMngr_BGImage_gdiplus/build",
+  "command": "D:\\Download\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\liveexplorer_skin.dir\\liveexplorer_skin.cpp.obj -c D:\\FileMngr_BGImage_gdiplus\\liveexplorer_skin.cpp",
+  "file": "D:/FileMngr_BGImage_gdiplus/liveexplorer_skin.cpp",
+  "output": "CMakeFiles/liveexplorer_skin.dir/liveexplorer_skin.cpp.obj"
+}
+]

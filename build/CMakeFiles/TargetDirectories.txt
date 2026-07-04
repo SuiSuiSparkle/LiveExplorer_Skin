@@ -1,0 +1,3 @@
+D:/FileMngr_BGImage_gdiplus/build/CMakeFiles/liveexplorer_skin.dir
+D:/FileMngr_BGImage_gdiplus/build/CMakeFiles/edit_cache.dir
+D:/FileMngr_BGImage_gdiplus/build/CMakeFiles/rebuild_cache.dir
