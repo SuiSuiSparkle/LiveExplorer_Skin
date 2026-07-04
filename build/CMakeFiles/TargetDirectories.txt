@@ -1,0 +1,5 @@
+G:/程序及其文件/Code&Project/FileMngr_BGImage/build/CMakeFiles/filemngr_bgimage.dir
+G:/程序及其文件/Code&Project/FileMngr_BGImage/build/CMakeFiles/edit_cache.dir
+G:/程序及其文件/Code&Project/FileMngr_BGImage/build/CMakeFiles/rebuild_cache.dir
+G:/程序及其文件/Code&Project/FileMngr_BGImage/build/CMakeFiles/filemngr_bgimage_autogen_timestamp_deps.dir
+G:/程序及其文件/Code&Project/FileMngr_BGImage/build/CMakeFiles/filemngr_bgimage_autogen.dir
